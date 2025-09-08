@@ -4,7 +4,7 @@
 <H3> NAME: ESHWAR T </H3>
 <H3> REGISTER NUMBER: 212223230054 </H3>
 <H3> EXPERIMENT NO: 02 </H3>
-<H3> DATE: </H3>
+<H3> DATE: 08-09-2025</H3>
 
 ## AIM:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
